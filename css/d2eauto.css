@@ -1,0 +1,47 @@
+.container {
+	margin-top: 10px;
+	padding: 20px;
+	padding-top: 20px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+}
+#banner {
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+}
+#navbanner {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+#foot {
+	margin-top: 25px;
+	padding: 15px;
+	border-radius: 5px;
+	color: #FFFFFF;
+}
+#un-head {
+	margin-top: 25px;
+	padding: 15px;
+	border-radius: 5px;
+	font-size: large;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+img {
+	border-radius: 5px;
+}
+.dvernon_link {
+	color: #FFFFFF;
+}
+.disclosure {
+	font-size: xx-small;
+	color: #5C5C5C;
+}
+iframe {
+	max-width: 100%;
+}
+.summer-but {
+	height: 40px !important;
+}

@@ -1,0 +1,7 @@
+# robots.txt for http://www.d2eauto.com
+
+User-agent: *
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
